@@ -261,7 +261,6 @@ class About extends Me {
 ```
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 [![Diolink's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diolink&show_icons=true&theme=tokyonight)](https://github.com/Diolink/github-readme-stats)
