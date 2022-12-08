@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: Diolink/waka-readme-stats@main #PLEASE USE MAIN BRANCH
+      - uses: DIOLINK/Diolink@main #PLEASE USE MAIN BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: 'False'
