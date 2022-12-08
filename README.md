@@ -2,6 +2,19 @@
 <h1 align="center">Hi there 👋 I'm Roger Coverzola Bogado</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"
+    width="50"
+  /><img
+    src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"
+    width="50"
+  /><img
+    src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"
+    width="50"
+  />
+</p>
+
 - 🌱 I’m currently learning **Vite**
 
 - 💬 Ask me about **React, HTML5, CSS**
@@ -243,4 +256,8 @@
     alt="diolink"
   />
 </p>
-
+<p align='right'>
+<img
+    src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"
+    width="100"
+  /><p>
