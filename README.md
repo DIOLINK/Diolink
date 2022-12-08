@@ -246,6 +246,20 @@
   </a>
 </p>
 
+```dart
+// tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode"},
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Gimp" }
+  };
+}
+```
+
 [![Diolink's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diolink&show_icons=true&theme=tokyonight)](https://github.com/Diolink/github-readme-stats)
 
 
