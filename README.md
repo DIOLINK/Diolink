@@ -259,28 +259,7 @@ class About extends Me {
   };
 }
 ```
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C138%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1056-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-```text
-
-💬 Programming Languages: 
-JavaScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   30.95% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-
-🔥 Editors: 
-
-
-💻 Operating Systems:
-Linux                  8 hrs 46 mins       █████████████████████████   100.0%
-```
-<!--END_SECTION:waka-->
----
 [![Diolink's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diolink&show_icons=true&theme=tokyonight)](https://github.com/Diolink/github-readme-stats)
 
 
