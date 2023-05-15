@@ -262,8 +262,8 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript", "T" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "ProgramingLanguages" : { "Javascript", "TypeScript", "React" },
+    "OtherLanguages" : { "HTML", "CSS", "SASS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode"},
     "Platforms" : { "GNU/Linux", "Windows" },
