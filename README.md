@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Vite**
+- 🌱 I’m currently learning **Vite, **
 
 - 💬 Ask me about **React, HTML5, CSS**
 
@@ -244,13 +244,25 @@
       height="40"
     />
   </a>
+    <a
+    href="https://demos.pixinvent.com/vuexy-nextjs-admin-template/landing/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://demos.pixinvent.com/vuexy-nextjs-admin-template/landing/img/bg-img/logo.png"
+      alt="xd"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ```dart
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript" },
+    "ProgramingLanguages" : { "Javascript", "T" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode"},
