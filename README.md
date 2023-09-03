@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋 I'm Roger Coverzola Bogado</h1>
+<h1 align="center">Hi there 👋, my name's Roger Coverzola Bogado</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <p align="center">
