@@ -244,18 +244,6 @@
       height="40"
     />
   </a>
-    <a
-    href="https://demos.pixinvent.com/vuexy-nextjs-admin-template/landing/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://demos.pixinvent.com/vuexy-nextjs-admin-template/landing/img/bg-img/logo.png"
-      alt="xd"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 ```dart
