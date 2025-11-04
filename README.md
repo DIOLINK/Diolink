@@ -34,7 +34,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"    width="40"
+      height="40" />
   </a>
           
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -194,7 +195,8 @@
     />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"    width="40"
+      height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
