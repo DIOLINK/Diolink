@@ -33,6 +33,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"
+      height="40" />
+  </a>
 <a href="https://www.oracle.com/es/java/technologies/downloads/" target="_blank" rel="noreferrer">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40"
       height="40" />
@@ -53,7 +57,7 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
       alt="bash"
       width="40"
       height="40"
