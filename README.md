@@ -3,6 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <p align="center">
+  <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="60" height="60">
   <img
     src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"
     width="50"
