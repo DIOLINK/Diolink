@@ -33,8 +33,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://www.oracle.com/es/java/technologies/downloads/" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40"
+      height="40" />
+</a>         
+  
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"    width="40"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  width="40"
       height="40" />
   </a>
           
