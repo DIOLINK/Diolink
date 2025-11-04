@@ -39,7 +39,8 @@
 </a>
 
   <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"
+      height="40" />
   </a>
   
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
