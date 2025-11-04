@@ -3,17 +3,20 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <p align="center">
-  <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="60" height="60">
+  <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="60" height="60" />
   <img
     src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"
     width="50"
-  /><img
+  />
+  <img
     src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"
     width="50"
-  /><img
+  />
+  <img
     src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"
     width="50"
   />
+  <img class="share-ui__badge-image" src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" width="60" height="60"/>
   <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="60" height="60" />
 </p>
 
